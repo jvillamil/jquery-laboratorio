@@ -1,5 +1,5 @@
 /* importando fuente desde google web fonts */
-@import url(http://fonts.googleapis.com/css?family=Bigelow+Rules);
+@import url('http://fonts.googleapis.com/css?family=Bigelow+Rules');
 
 .boton { 
   font-weight: bold;
